@@ -1,3 +1,9 @@
+# Created by: Robert Duncan
+# File Name: MazeSolver.cpp
+# Support files: Stack.h
+# Date Created: October 18, 2022
+# Date Last Modified: March 4, 2023
+
 #include <iostream>
 #include "Stack.h"
 
